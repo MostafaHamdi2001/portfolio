@@ -511,7 +511,7 @@ function Main() {
 
                     <li className="social-icon-item">
                       <a
-                        href="https://wa.me/01090953863"
+                        href="https://wa.me/+201090953863"
                         className="social-icon-link bi-whatsapp"
                       ></a>
                     </li>
